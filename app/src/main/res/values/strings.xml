@@ -39,6 +39,7 @@
     <string name="tag_group_dialect">方言角色</string>
     <string name="clone_active_label">当前克隆采样</string>
     <string name="no_clone_selected">未选择 (请前往素材页)</string>
+    <string name="voicedesign_active_label">音色描述模式已开启</string>
     <string name="section_reading_text">朗读文本</string>
     <string name="section_model_settings">模型设置</string>
     <string name="section_style_control">风格控制</string>
