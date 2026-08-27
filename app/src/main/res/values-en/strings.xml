@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Mimo TTS App</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_assets">Assets</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="section_engine">Core Engine</string>
+    <string name="model_basic">Basic</string>
+    <string name="model_design">Voice Design</string>
+    <string name="model_clone">Voice Clone</string>
+    <string name="library_preset">Preset Voices</string>
+    <string name="library_design">My Designs</string>
+    <string name="library_clone">My Samples</string>
+    <string name="library_generic">Voice Library</string>
+    <string name="no_assets_guide">No matching assets. Please add them in the Assets tab.</string>
+    <string name="section_style">Style Control</string>
+    <string name="style_tags_label">Emotion &amp; Style Tags</string>
+    <string name="style_tags_hint">(Happy) (Lively)</string>
+    <string name="prompt_label">System Prompt</string>
+    <string name="director_helper_on">Director Mode</string>
+    <string name="director_helper_off">Hide Helper</string>
+    <string name="prompt_placeholder">Enter description or use director helper…</string>
+    <string name="prompt_voicedesign_placeholder">This description determines the designed voice…</string>
+    <string name="section_content">Reading Text</string>
+    <string name="content_placeholder">Enter content to synthesize…</string>
+    <string name="empty_content_error">Enter reading text before previewing.</string>
+    <string name="stop_button">Stop</string>
+    <string name="replay_button">Replay</string>
+    <string name="start_preview">Preview Now</string>
+    <string name="director_role">Role</string>
+    <string name="director_scene">Scene</string>
+    <string name="director_guide">Guidance</string>
+    <string name="confirm_generate">Apply &amp; Generate</string>
+    <string name="tag_group_emotion">Basic Emotion</string>
+    <string name="tag_group_style">Featured Style</string>
+    <string name="tag_group_dialect">Dialect &amp; Role</string>
+    <string name="clone_active_label">Current Clone Sample</string>
+    <string name="no_clone_selected">Not selected (Go to Assets)</string>
+    <string name="voicedesign_active_label">Voice Design Mode Active</string>
+    <string name="section_reading_text">Reading Text</string>
+    <string name="section_model_settings">Model Settings</string>
+    <string name="section_style_control">Style Control</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_replay">Replay</string>
+    <string name="label_active_clone">Active Clone Sample</string>
+    <string name="label_design_mode">Voice Design Mode Active</string>
+    <string name="tip_design_mode">Description from control area</string>
+    <string name="tag_emotion">Basic Emotion</string>
+    <string name="tag_style">Featured Style</string>
+    <string name="tag_dialect">Dialect &amp; Role</string>
+    <string name="clear_content">Clear</string>
+
+    <!-- Assets Screen -->
+    <string name="voice_design">Voice Design</string>
+    <string name="voice_design_label">Voice Description</string>
+    <string name="voice_design_placeholder">e.g., A magnetic, mature male voice…</string>
+    <string name="generate_and_save_voice">Generate &amp; Save Voice</string>
+    <string name="voice_sampling">Voice Sampling</string>
+    <string name="voice_sampling_desc">Clone your voice by recording or uploading an audio file.</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="upload_file">Upload File</string>
+    <string name="no_design_assets">No design assets yet</string>
+    <string name="no_clone_assets">No sampling assets yet</string>
+    <string name="save_design_asset">Save Voice Design</string>
+    <string name="new_design_title">New Voice Design</string>
+    <string name="asset_name_label">Asset Name</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="design_tab">Voice Design</string>
+    <string name="clone_tab">Voice Sampling</string>
+    <string name="delete_confirm">Delete</string>
+    <string name="edit_asset_title">Edit Asset</string>
+    <string name="recording_title">Recording Voice Sample</string>
+    <string name="recording_desc">Please read a short text clearly (5+ seconds suggested).</string>
+    <string name="stop_and_save">Stop &amp; Save</string>
+    <string name="saved_assets_header">Saved Assets</string>
+
+    <!-- Settings Screen -->
+    <string name="api_key_label">API Key</string>
+    <string name="api_key_hint">Enter your Mimo API Key here to use the service.</string>
+    <string name="settings_group_api">API Configuration</string>
+    <string name="settings_group_service">Service Status</string>
+    <string name="settings_group_about">About App</string>
+    <string name="get_api_key">Get API Key</string>
+    <string name="paste_key">Paste from Clipboard</string>
+    <string name="app_version">Version Info</string>
+    <string name="visit_console">Visit Console</string>
+    <string name="check_connectivity">Check Connectivity</string>
+    <string name="service_online">Service Online</string>
+    <string name="service_offline">Connection Failed</string>
+    <string name="checking">Checking…</string>
+    <string name="api_connectivity">API Connectivity</string>
+    <string name="check_conn_tip">Click button to check</string>
+    <string name="status_normal">Normal</string>
+    <string name="model_sync">Real-time Engine</string>
+    <string name="model_sync_desc">MiMo V2.5 Streaming API</string>
+    <string name="app_desc">Professional Personalized TTS Service</string>
+    <string name="key_configured">Key Configured</string>
+    <string name="key_missing">Key Missing</string>
+</resources>

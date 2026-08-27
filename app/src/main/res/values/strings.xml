@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Mimo TTS App</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">首页</string>
+    <string name="nav_assets">素材</string>
+    <string name="nav_settings">配置</string>
+
+    <!-- Home Screen -->
+    <string name="section_engine">核心引擎</string>
+    <string name="model_basic">基础版</string>
+    <string name="model_design">音色设计</string>
+    <string name="model_clone">声音克隆</string>
+    <string name="library_preset">预置音色库</string>
+    <string name="library_design">我的设计素材</string>
+    <string name="library_clone">我的声音采样</string>
+    <string name="library_generic">音色库</string>
+    <string name="no_assets_guide">暂无匹配素材，请先前往素材页添加</string>
+    <string name="section_style">风格控制</string>
+    <string name="style_tags_label">情感与风格标签</string>
+    <string name="style_tags_hint">(开心) (活泼)</string>
+    <string name="prompt_label">系统提示词 (Prompt)</string>
+    <string name="director_helper_on">导演助手</string>
+    <string name="director_helper_off">收起助手</string>
+    <string name="prompt_placeholder">输入自然语言描述或通过助手生成…</string>
+    <string name="prompt_voicedesign_placeholder">描述词将决定音色设计的风格…</string>
+    <string name="section_content">朗读文本</string>
+    <string name="content_placeholder">请输入要合成的内容…</string>
+    <string name="empty_content_error">请输入要合成的朗读内容</string>
+    <string name="stop_button">停止</string>
+    <string name="replay_button">重新播放</string>
+    <string name="start_preview">立即试听</string>
+    <string name="director_role">角色</string>
+    <string name="director_scene">场景</string>
+    <string name="director_guide">指导</string>
+    <string name="confirm_generate">应用并生成</string>
+    <string name="tag_group_emotion">基础情绪</string>
+    <string name="tag_group_style">特色风格</string>
+    <string name="tag_group_dialect">方言角色</string>
+    <string name="clone_active_label">当前克隆采样</string>
+    <string name="no_clone_selected">未选择 (请前往素材页)</string>
+    <string name="section_reading_text">朗读文本</string>
+    <string name="section_model_settings">模型设置</string>
+    <string name="section_style_control">风格控制</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_replay">重新播放</string>
+    <string name="label_active_clone">当前克隆采样</string>
+    <string name="label_design_mode">音色描述模式已开启</string>
+    <string name="tip_design_mode">描述词见控制区</string>
+    <string name="tag_emotion">基础情绪</string>
+    <string name="tag_style">特色风格</string>
+    <string name="tag_dialect">方言角色</string>
+    <string name="clear_content">清除</string>
+
+    <!-- Assets Screen -->
+    <string name="voice_design">音色设计</string>
+    <string name="voice_design_label">音色描述</string>
+    <string name="voice_design_placeholder">例如: 一位磁性、成熟的男性声音…</string>
+    <string name="generate_and_save_voice">生成并保存音色</string>
+    <string name="voice_sampling">声音采样</string>
+    <string name="voice_sampling_desc">通过录音或上传音频文件来复刻您的声音。</string>
+    <string name="start_recording">开始录音</string>
+    <string name="upload_file">上传文件</string>
+    <string name="no_design_assets">暂无设计素材</string>
+    <string name="no_clone_assets">暂无采样素材</string>
+    <string name="save_design_asset">保存音色设计</string>
+    <string name="new_design_title">新建音色设计</string>
+    <string name="asset_name_label">素材名称</string>
+    <string name="save_button">保存</string>
+    <string name="cancel_button">取消</string>
+    <string name="design_tab">音色设计</string>
+    <string name="clone_tab">声音采样</string>
+    <string name="delete_confirm">删除</string>
+    <string name="edit_asset_title">编辑素材</string>
+    <string name="recording_title">正在录制声音采样</string>
+    <string name="recording_desc">请清晰地朗读一段文字（建议 5 秒以上）。</string>
+    <string name="stop_and_save">停止并保存</string>
+    <string name="saved_assets_header">已保存素材</string>
+
+    <!-- Settings Screen -->
+    <string name="api_key_label">API Key</string>
+    <string name="api_key_hint">在此处输入您的 Mimo API Key 以使用服务。</string>
+    <string name="settings_group_api">API 配置</string>
+    <string name="settings_group_service">服务状态</string>
+    <string name="settings_group_about">关于应用</string>
+    <string name="get_api_key">获取密钥</string>
+    <string name="paste_key">从剪贴板粘贴</string>
+    <string name="app_version">版本信息</string>
+    <string name="visit_console">访问控制台</string>
+    <string name="check_connectivity">检查服务连接</string>
+    <string name="service_online">服务在线</string>
+    <string name="service_offline">连接失败</string>
+    <string name="checking">正在检查…</string>
+    <string name="api_connectivity">API 连通性</string>
+    <string name="check_conn_tip">点击按钮检测连接</string>
+    <string name="status_normal">正常</string>
+    <string name="model_sync">实时引擎</string>
+    <string name="model_sync_desc">MiMo V2.5 Streaming API</string>
+    <string name="app_desc">专业的个性化语音合成服务</string>
+    <string name="key_configured">密钥已配置</string>
+    <string name="key_missing">未检测到密钥</string>
+</resources>
